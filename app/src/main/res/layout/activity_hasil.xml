@@ -11,4 +11,12 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="id.sch.smktelkom_mlg.learn.intent1.HasilActivity">
 
+    <TextView
+        tools:text="Hasil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewHasil"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:gravity="center"/>
+
 </LinearLayout>
